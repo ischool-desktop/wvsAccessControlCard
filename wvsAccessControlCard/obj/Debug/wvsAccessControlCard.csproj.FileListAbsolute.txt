@@ -1,0 +1,16 @@
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\wvsAccessControlCard.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\wvsAccessControlCard.pdb
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\Mono.Security.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\Npgsql.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\Npgsql.pdb
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\Npgsql.xml
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\obj\Debug\ResolveAssemblyReference.cache
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\obj\Debug\wvsAccessControlCard.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\obj\Debug\wvsAccessControlCard.pdb
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\Configuration.xml
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAClient.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAUtil.dll
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAClient.pdb
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAClient.xml
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAUtil.pdb
+D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\bin\Debug\FISCA.DSAUtil.xml

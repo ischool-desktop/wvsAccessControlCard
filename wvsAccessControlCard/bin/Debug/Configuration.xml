@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  
+  <!-- DB connection string information-->
+  <LocalDB ServerName="127.0.0.1" Port="5432" UserName="test" Password="test" Name="test"></LocalDB>
+  
+  <!-- iCampus Access Point -->
+  <DSA AccessPoint="dev.sh_d" ContractName="ischool.acCard" UserName="admin" Password="1234" />
+
+  
+  <ClockAP WaitTime="20" Path="c:\test" RunApp="notepad.exe" />
+  
+  <!--讀卡資料檔-->
+  <ClockData File="D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\card_no_history.txt" />
+  
+  <!--讀完文字檔後，要搬移到此目錄中-->
+  <Backup Path="D:\TFS2010\Research\chuntai\wvsAccessControlCard\wvsAccessControlCard\Backup" />
+
+</Configuration>
